@@ -8,7 +8,8 @@
 
 # Key Features of the Project:
 ## ✅ Revenue & Sales Analysis → Identifies total sales per category, monthly revenue trends, and revenue growth rates.
-## ✅ Customer Behavior Analysis → Evaluates customer retention, churn impact, and spending patterns.##ZZ✅ Product Performance Analysis → Finds the most frequently bought-together products and those with high cancellation rates.
+## ✅ Customer Behavior Analysis → Evaluates customer retention, churn impact, and spending patterns.
+## ✅ Product Performance Analysis → Finds the most frequently bought-together products and those with high cancellation rates.
 ## ✅ Seller Performance Analysis → Ranks sellers based on revenue and delivery speed.
 ## ✅ Risk Assessment → Examines churn risk based on credit scores and product usage behavior.
 ## The SQL queries used in this project include joins, aggregations, window functions, common table expressions (CTEs), and ranking functions, ensuring efficient data retrieval and insightful analysis.
